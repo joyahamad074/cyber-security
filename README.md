@@ -9,5 +9,5 @@ blood banks and act as an interface for the patient to find his/her desired bloo
 efficient way. It will make the blood transfusion service and its management more reliable and
 efficient than the conventional system.
 
-* **Find details about this project -** [Here is our Project Report](https://github.com/joyahamad074/cyber-security/p.pdf) .
+* **Find details about this project -** [Here is our Project Report](https://github.com/joyahamad074/cyber-security/blob/master/p.pdf) .
 
